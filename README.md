@@ -1,5 +1,5 @@
-JavaFX Hello World Demo
-=======================
+JavaFX Stack Pane Demo
+======================
 
-Show a window with `Hello, JavaFX` label.
+Layout -> `StackPane`
 
